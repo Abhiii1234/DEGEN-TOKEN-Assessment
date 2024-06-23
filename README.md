@@ -1,4 +1,4 @@
-# ETH-AVAX-Module-4
+# DEGEN TOKEN CONTRACT
 
 The DegenToken smart contract is a Solidity implementation for a custom ERC-20 token and related functionalities designed for a decentralized gaming platform or application. This contract allows players to earn, stake, redeem, and trade tokens within the game ecosystem. Additionally, players can use their tokens to purchase in-game goodies from the store.
 
